@@ -52,7 +52,7 @@ if user_text:
         with st.chat_message("assistant"):
             try:
                 response = client.chat.completions.create(
-                    model="gpt-4o-mini",
+                    model="gpt-4o",
                     messages=[
                         {"role": "system", "content": system_prompt},
                         *st.session_state.messages

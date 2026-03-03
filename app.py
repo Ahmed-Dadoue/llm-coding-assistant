@@ -1,9 +1,9 @@
 import os
 import streamlit as st
-from dotenv import load_dotenv
+##from dotenv import load_dotenv
 from openai import OpenAI
 
-load_dotenv()
+##load_dotenv()
 
 st.set_page_config(page_title="LLM Coding Assistant", page_icon="🤖")
 

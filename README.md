@@ -13,7 +13,7 @@ Benutzer können Fragen stellen oder Code eingeben und erhalten passende Erklär
 - Streamlit Cloud (Deployment)
 
 ## Live Demo
-https://llm-coding-assistant-XXXX.streamlit.app
+https://llm-coding-assistant-qskg4xkdrbqkexdxjvdsug.streamlit.app/
 
 ## GitHub Repository
 https://github.com/Ahmed-Dadoue/llm-coding-assistant
